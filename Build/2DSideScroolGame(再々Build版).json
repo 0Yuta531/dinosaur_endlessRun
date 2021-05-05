@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SideScroolGame(2D)",
+"productVersion": "0.1",
+"dataUrl": "2DSideScroolGame(再々Build版).data.unityweb",
+"wasmCodeUrl": "2DSideScroolGame(再々Build版).wasm.code.unityweb",
+"wasmFrameworkUrl": "2DSideScroolGame(再々Build版).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
